@@ -1,0 +1,5 @@
+npm-debug.log
+typings/
+node_modules/
+app/*
+!app/*.ts
